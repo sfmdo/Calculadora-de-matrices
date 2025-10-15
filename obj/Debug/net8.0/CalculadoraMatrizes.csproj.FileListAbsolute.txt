@@ -1,0 +1,14 @@
+/home/sfmdo/Projects/Programacion Avanzada/CalculadoraMatrizes/bin/Debug/net8.0/CalculadoraMatrizes
+/home/sfmdo/Projects/Programacion Avanzada/CalculadoraMatrizes/bin/Debug/net8.0/CalculadoraMatrizes.deps.json
+/home/sfmdo/Projects/Programacion Avanzada/CalculadoraMatrizes/bin/Debug/net8.0/CalculadoraMatrizes.runtimeconfig.json
+/home/sfmdo/Projects/Programacion Avanzada/CalculadoraMatrizes/bin/Debug/net8.0/CalculadoraMatrizes.dll
+/home/sfmdo/Projects/Programacion Avanzada/CalculadoraMatrizes/bin/Debug/net8.0/CalculadoraMatrizes.pdb
+/home/sfmdo/Projects/Programacion Avanzada/CalculadoraMatrizes/obj/Debug/net8.0/CalculadoraMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+/home/sfmdo/Projects/Programacion Avanzada/CalculadoraMatrizes/obj/Debug/net8.0/CalculadoraMatrizes.AssemblyInfoInputs.cache
+/home/sfmdo/Projects/Programacion Avanzada/CalculadoraMatrizes/obj/Debug/net8.0/CalculadoraMatrizes.AssemblyInfo.cs
+/home/sfmdo/Projects/Programacion Avanzada/CalculadoraMatrizes/obj/Debug/net8.0/CalculadoraMatrizes.csproj.CoreCompileInputs.cache
+/home/sfmdo/Projects/Programacion Avanzada/CalculadoraMatrizes/obj/Debug/net8.0/CalculadoraMatrizes.dll
+/home/sfmdo/Projects/Programacion Avanzada/CalculadoraMatrizes/obj/Debug/net8.0/refint/CalculadoraMatrizes.dll
+/home/sfmdo/Projects/Programacion Avanzada/CalculadoraMatrizes/obj/Debug/net8.0/CalculadoraMatrizes.pdb
+/home/sfmdo/Projects/Programacion Avanzada/CalculadoraMatrizes/obj/Debug/net8.0/CalculadoraMatrizes.genruntimeconfig.cache
+/home/sfmdo/Projects/Programacion Avanzada/CalculadoraMatrizes/obj/Debug/net8.0/ref/CalculadoraMatrizes.dll

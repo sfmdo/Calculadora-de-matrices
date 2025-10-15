@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraMatrizes", "CalculadoraMatrizes.csproj", "{37FD49C0-0FCA-E369-FAC6-E8A7421E224F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37FD49C0-0FCA-E369-FAC6-E8A7421E224F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FD49C0-0FCA-E369-FAC6-E8A7421E224F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FD49C0-0FCA-E369-FAC6-E8A7421E224F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FD49C0-0FCA-E369-FAC6-E8A7421E224F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19E4EB57-033D-444F-817E-58C7AC60276D}
+	EndGlobalSection
+EndGlobal
